@@ -1,2 +1,2 @@
-# Slider-images
- Using only Css3
+# Image Slider
+> Using only CSS3
